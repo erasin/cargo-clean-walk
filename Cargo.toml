@@ -1,0 +1,8 @@
+[package]
+name = "cargo-clean-walk"
+version = "0.1.0"
+authors = ["erasin <erasinoo@gmail.com>"]
+
+[dependencies]
+scan_dir = "0.3.3"
+clap = "2.22.2"
